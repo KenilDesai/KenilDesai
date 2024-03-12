@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kenil Ribadiya
-- 👀 I’m interested in ... App development
+- 👋 Hi, I’m @KenilDesai
+- 👀 I’m interested in ... App developmen
 - 🌱 I’m currently learning ... Android/ios Development
 - 💞️ I’m looking to collaborate on ... App Development Projects
 - 📫 How to reach me ... Insta : _______kenil  DM for more info
